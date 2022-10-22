@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_exit.xml" value="0.1824074074074074" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_explore.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_video_maker.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_wikipedia.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.1824074074074074" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/ic_writer.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/drawable/shape_circle.xml" value="0.18425925925925926" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/activity_main2.xml" value="0.5" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/fragment_explore.xml" value="0.2" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/fragment_photographer.xml" value="0.25" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/fragment_profile.xml" value="0.15800330033003301" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/fragment_test.xml" value="0.1790556334735858" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/fragment_trend.xml" value="0.6" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/header_main.xml" value="0.67" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/item_card.xml" value="0.4" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/item_explore.xml" value="0.1" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/item_test.xml" value="0.3842443729903537" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/layout/item_trend.xml" value="1.1" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.18489583333333334" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/menu/menu_main.xml" value="0.22" />
+        <entry key="..\:/Coding/Android/Dore/Wikipedia/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_photographer.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_profile.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_translate.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_trend.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_wikimedia.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_wikipedia.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/activity_main2.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/activity_main3.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/activity_main4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment-trend.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment_blank.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment_explore.xml" value="0.2324074074074074" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment_photographer.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment_profiler.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/fragment_trend.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/header_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/item_explore.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/item_trenc.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/layout/item_trend.xml" value="0.59375" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/menu/menu_main.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/CMG/Downloads/Wikipedia/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.18611111111111112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
