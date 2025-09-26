@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="animated welcome" />
 </p>
-<h> I'm najme nooryan</h1>
+<h> My name is Najme Nooryan</h1>
 <p>
 A frontend developer focused on building <b>modern, scalable, and user-friendly web apps</b>.  
 I enjoy working with <b>React, Next.js, and TypeScript</b>, and I love bringing ideas to life with clean UI and smooth user experience.  
